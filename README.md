@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on small practice projects
 - 🤔 I’m looking for help with improving my coding skills
-- 💬 Ask me about front-end basics and responsive design
+
 - 📫 How to reach me: paogomez17@hotmail.com
   
 
